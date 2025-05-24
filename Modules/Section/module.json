@@ -1,0 +1,15 @@
+{
+    "name": "Section",
+    "alias": "section",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Section\\Providers\\SectionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "QSale",
+    "alias": "qsale",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\QSale\\Providers\\QSaleServiceProvider"
+    ],
+    "aliases": {},
+    "files": ["composer.php"],
+    "requires": []
+}

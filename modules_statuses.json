@@ -1,0 +1,21 @@
+{
+    "Setting": true,
+    "Core": true,
+    "Category": true,
+    "User": true,
+    "Authentication": true,
+    "Authorization": true,
+    "Apps": true,
+    "Page": true,
+    "Question": true,
+    "DeviceToken": true,
+    "Area": true,
+    "Advertising": true,
+    "Slider": true,
+    "Attribute": true,
+    "QSale": true,
+    "Advertisement": true,
+    "Offer": true,
+    "ShippingCompany": true,
+    "Section": true
+}

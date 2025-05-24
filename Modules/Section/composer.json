@@ -1,0 +1,29 @@
+{
+    "name": "nwidart/section",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Section\\Providers\\SectionServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Section\\": ""
+        },
+        "classmap": [
+            "Database/Seeders",
+            "Database/factories"
+        ]
+    }
+}

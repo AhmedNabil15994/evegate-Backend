@@ -1,0 +1,29 @@
+{
+    "name": "nwidart/qsale",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\QSale\\Providers\\QSaleServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\QSale\\": ""
+        }
+    },
+     "classmap": [
+            "Database/Seeders",
+            "Database/factories"
+     ]
+}

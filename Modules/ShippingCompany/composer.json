@@ -1,0 +1,27 @@
+{
+    "name": "nwidart/shipping_company",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ShippingCompany\\Providers\\ShippingCompanyServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ShippingCompany\\": ""
+        }
+    },
+    "classmap": [
+        "Database/Seeders",
+        "Database/factories"
+    ]
+}

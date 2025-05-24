@@ -1,0 +1,13 @@
+{
+    "name": "ShippingCompany",
+    "alias": "shipping_company",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ShippingCompany\\Providers\\ShippingCompanyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

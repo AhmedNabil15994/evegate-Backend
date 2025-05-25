@@ -1,11 +1,11 @@
 
 
 
-## About Alsinaeia
+## About EveGate
+My work mechanism lies in assembling designers - companies - individuals - beauty salons - beauty clinics - shipping companies who specialize in everything Eve needs in one platform. Between companies and people significantly in all countries of the world and organized several sections of them
+Designers: wedding dresses - reception suits - abayas - and more...
 
-Alsinaeia Dashboard and  Api
-
-
+EveGate Dashboard and  Api
 
 
 ##  Laravel Version
@@ -46,15 +46,6 @@ php artisan module:seed Category
 php artisan module:seed QSale
 
 ```
-
-
-## Developer
-
-Ahmed Safwat
-
-
-
-
 
 ## License
 
